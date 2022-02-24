@@ -16,7 +16,7 @@ If you are a self-learner looking to do simple data science projects, please go 
  
  I strongly recommend working through the "Data Science in Python" learning path in Dataquest.
  
- ## A little more about me ... 💁‍♀️ ##:
+ ## A little more about me ...💁‍♀️ : ##
 
  When I am not creating projects here, I work as a postdoctoral fellow at the University of Pennsylvnia where I struggle to understand why human cells behave the way they do.
  I am interested, eventually, in using data science to provide healthcare solutions and improve healthcare in general, particularly focussing on underdeveloped and developing countries. For those of you not familiar with this field, it's called [Health Informatics](https://en.wikipedia.org/wiki/Health_informatics).
