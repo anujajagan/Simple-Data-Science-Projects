@@ -1,5 +1,5 @@
 # Github Repo: Simple Data Science Projects #
-## Hi Everyone! My name is Anuja Jaganathan. Welcome to my Github page :smiley: ##
+## Hi Everyone! My name is Anuja Jaganathan. Welcome to my very first Github Repo :smiley: ##
 The idea behind this repo is to demonstrate my ability to perform exploratory data analysis and visualization using Jupyter Notebooks and Python.
 If you are a self-learner looking to do simple data science projects, please go ahead and explore.
 
