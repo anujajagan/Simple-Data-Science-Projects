@@ -26,5 +26,5 @@ If you are a self-learner looking to do simple data science projects, please go 
 
 ## CONTENTS ##
 
-1. Jupyter Notebooks: Introduction and Installation.
+1. [Jupyter Notebooks: Introduction and Installation](https://github.com/anujajagan/Simple-Data-Science-Projects/tree/main/Jupyter%20Notebooks:%20Introduction%20and%20Installation)
 2. [How to win at Game of Thrones?](https://github.com/anujajagan/Simple-Data-Science-Projects/tree/main/How%20to%20win%20at%20Game%20of%20Thrones%3F)
